@@ -1,0 +1,9 @@
+c:\users\williamandrus\documents\visual studio 2013\Projects\RegexDemo\RegexDemo\bin\Debug\RegexDemo.exe.config
+c:\users\williamandrus\documents\visual studio 2013\Projects\RegexDemo\RegexDemo\bin\Debug\RegexDemo.exe
+c:\users\williamandrus\documents\visual studio 2013\Projects\RegexDemo\RegexDemo\bin\Debug\RegexDemo.pdb
+c:\users\williamandrus\documents\visual studio 2013\Projects\RegexDemo\RegexDemo\obj\Debug\RegexDemo.csprojResolveAssemblyReference.cache
+c:\users\williamandrus\documents\visual studio 2013\Projects\RegexDemo\RegexDemo\obj\Debug\RegexDemo.FormRegex.resources
+c:\users\williamandrus\documents\visual studio 2013\Projects\RegexDemo\RegexDemo\obj\Debug\RegexDemo.Properties.Resources.resources
+c:\users\williamandrus\documents\visual studio 2013\Projects\RegexDemo\RegexDemo\obj\Debug\RegexDemo.csproj.GenerateResource.Cache
+c:\users\williamandrus\documents\visual studio 2013\Projects\RegexDemo\RegexDemo\obj\Debug\RegexDemo.exe
+c:\users\williamandrus\documents\visual studio 2013\Projects\RegexDemo\RegexDemo\obj\Debug\RegexDemo.pdb
